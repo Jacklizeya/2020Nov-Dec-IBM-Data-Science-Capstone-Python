@@ -1,5 +1,6 @@
 # Capstone-Battle-of-Neighborhood
 This project is aiming to find the best neighborhoods to set up a electrical vehicle charging station plus an amazon hub locker
+
 Introduction: Business Problem
 The world is shifting fast towards new direction. Renewable energy and electrical vehicle are taking momentum and becoming more popular. People’s working style and lifestyle are also changed a lot by COVID-19 and we rely more and more on the online shopping. Amazon is gaining more revenue and become an inseparable part of our community.
 
