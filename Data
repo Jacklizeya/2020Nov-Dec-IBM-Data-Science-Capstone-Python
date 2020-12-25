@@ -1,0 +1,13 @@
+1. Calgary communities data from Wikipedia. We will use web scrapper to extract useful information for us.
+https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Calgary
+
+2. Calgary’s existing gas stations. We will use FourSquare API to find gas stations in Calgary.
+
+3. Calgary’s electrical vehicle charging station. We utilize Phantombuster to download location information from google map search. The data is saved as .csv file.
+
+4. Calgary’s Amazon hub lockers. Phantombuster is also used. The website is
+https://phantombuster.com/7908605527940361/phantoms/6696986033648658/console
+
+5. “Geopy” library is used to get longitude and latitude information
+
+6. “folium” library is used to create an interactive map.
